@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn {
+    @apply py-1 px-2 rounded;
+  }
+  .btn-transparent {
+    @apply bg-transparent text-blue-700 border border-blue-500;
+  }
+  .btn-transparent:hover {
+    @apply bg-blue-500 text-white;
+  }
+
+  .btn-blue {
+    @apply bg-blue-700 text-white border border-blue-500;
+  }
+  .btn-transparent:hover {
+    @apply bg-transparent text-blue-700;
+  }

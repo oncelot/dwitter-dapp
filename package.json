@@ -1,0 +1,23 @@
+{
+  "name": "starterdapp",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethereum-blockies-base64": "^1.0.2",
+    "ethers": "^5.5.3",
+    "vue": "^3.2.25",
+    "vue-mobile-detection": "^2.0.1",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
+    "vite": "^2.7.2"
+  }
+}
