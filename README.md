@@ -1,5 +1,4 @@
-# Vue 3 + Vite
-
+# Dwitter.xyz
 My first Dapp to interact with my first contract inside blockchain polygon
 example: dwitter.xyz
 I've create contract to write into blockchain, you can use it micro blog.
